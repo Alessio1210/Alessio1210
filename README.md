@@ -3,6 +3,6 @@
 
 - if you have a question just text me
 - 🌱 I’m currently learning Mashine learning with Python
-- 💬 Ask me about everything
-- ⚡ Fun fact: I don't like to go to school
+- 💬 You are welcome to contebute to my Projects
+- ⚡ Fun fact: I hate race conditions
 
