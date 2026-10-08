@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="108" viewBox="0 0 1200 108" role="img" aria-labelledby="title desc">
+  <title id="title">Let’s connect the dots</title>
+  <desc id="desc">Open to questions and contributions. Always learning.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b1424" />
+      <stop offset="1" stop-color="#060914" />
+    </linearGradient>
+    <linearGradient id="neon">
+      <stop stop-color="#67e8f9" />
+      <stop offset=".5" stop-color="#a78bfa" />
+      <stop offset="1" stop-color="#f472b6" />
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#8b5cf6" stop-opacity=".25" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".045" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="108" rx="22" fill="url(#bg)" />
+  <rect width="1200" height="108" rx="22" fill="url(#grid)" />
+  <path d="M32 1H1168" stroke="url(#neon)" />
+  <g font-family="DejaVu Sans, sans-serif" text-anchor="middle">
+    <text x="600" y="47" fill="#edf2ff" font-size="21" font-weight="bold">Let’s connect the dots.</text>
+    <text x="600" y="77" fill="#9cabc5" font-size="13">Open to questions · Happy to collaborate · Always learning</text>
+  </g>
+</svg>
