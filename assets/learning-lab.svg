@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">The learning lab</title><desc id="desc">A Python terminal with the learning loop: experiment, learn, repeat.</desc>
+<rect x="1" y="1" width="1198" height="258" rx="20" fill="#0c1120" stroke="#25304a"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="48" y="52" fill="#a78bfa" font-size="13" letter-spacing="3">THE LEARNING LAB</text><text x="48" y="98" fill="#edf2ff" font-size="30" font-weight="700">Small experiments.</text><text x="48" y="139" fill="#edf2ff" font-size="30" font-weight="700">New connections.</text><text x="48" y="207" fill="#5eead4" font-size="14" letter-spacing="2">EXPERIMENT → LEARN → REPEAT</text></g>
+<rect x="610" y="42" width="542" height="176" rx="12" fill="#141c2e"/>
+<circle cx="634" cy="64" r="5" fill="#a78bfa"/><circle cx="652" cy="64" r="5" fill="#8fbce7"/><circle cx="670" cy="64" r="5" fill="#5eead4"/>
+<g font-family="monospace" font-size="20"><text x="634" y="112" fill="#5eead4">&gt; python learning.py</text><text x="634" y="152" fill="#bec8dd">curiosity = True</text><text x="634" y="189" fill="#a78bfa"># keep connecting the dots</text></g>
+</svg>
