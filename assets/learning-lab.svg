@@ -1,8 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-<title id="title">The learning lab</title><desc id="desc">A Python terminal with the learning loop: experiment, learn, repeat.</desc>
-<rect x="1" y="1" width="1198" height="258" rx="20" fill="#0c1120" stroke="#25304a"/>
-<g font-family="Arial, Helvetica, sans-serif"><text x="48" y="52" fill="#a78bfa" font-size="13" letter-spacing="3">THE LEARNING LAB</text><text x="48" y="98" fill="#edf2ff" font-size="30" font-weight="700">Small experiments.</text><text x="48" y="139" fill="#edf2ff" font-size="30" font-weight="700">New connections.</text><text x="48" y="207" fill="#5eead4" font-size="14" letter-spacing="2">EXPERIMENT → LEARN → REPEAT</text></g>
-<rect x="610" y="42" width="542" height="176" rx="12" fill="#141c2e"/>
-<circle cx="634" cy="64" r="5" fill="#a78bfa"/><circle cx="652" cy="64" r="5" fill="#8fbce7"/><circle cx="670" cy="64" r="5" fill="#5eead4"/>
-<g font-family="monospace" font-size="20"><text x="634" y="112" fill="#5eead4">&gt; python learning.py</text><text x="634" y="152" fill="#bec8dd">curiosity = True</text><text x="634" y="189" fill="#a78bfa"># keep connecting the dots</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">Inside the learning lab</title>
+  <desc id="desc">A code editor with a Python learning loop next to the three steps: explore, experiment, learn.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b1424" />
+      <stop offset="1" stop-color="#060914" />
+    </linearGradient>
+    <linearGradient id="neon">
+      <stop stop-color="#67e8f9" />
+      <stop offset=".5" stop-color="#a78bfa" />
+      <stop offset="1" stop-color="#f472b6" />
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#8b5cf6" stop-opacity=".25" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".045" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="370" rx="22" fill="url(#bg)" />
+  <rect width="1200" height="370" rx="22" fill="url(#grid)" />
+  <g font-family="DejaVu Sans, sans-serif">
+    <text x="44" y="52" fill="#a78bfa" font-size="11" letter-spacing="3">INSIDE THE LEARNING LAB</text>
+    <text x="44" y="94" fill="#edf2ff" font-size="30" font-weight="bold">Progress starts with “what if?”</text>
+  </g>
+  <rect x="44" y="125" width="590" height="208" rx="12" fill="#10182a" stroke="#29344b" />
+  <path d="M44 165H634" stroke="#29344b" />
+  <circle cx="65" cy="146" r="4" fill="#f472b6" />
+  <circle cx="81" cy="146" r="4" fill="#a78bfa" />
+  <circle cx="97" cy="146" r="4" fill="#67e8f9" />
+  <text x="122" y="150" fill="#8fa1bd" font-family="monospace" font-size="12">curiosity.py</text>
+  <g font-family="monospace" font-size="19">
+    <g fill="#53627d">
+      <text x="64" y="203">1</text>
+      <text x="64" y="235">2</text>
+      <text x="64" y="267">3</text>
+      <text x="64" y="299">4</text>
+    </g>
+    <text x="106" y="203" fill="#c4b5fd">while <tspan fill="#edf2ff">curious:</tspan>
+    </text>
+    <text x="106" y="235" fill="#67e8f9">    explore()</text>
+    <text x="106" y="267" fill="#67e8f9">    experiment()</text>
+    <text x="106" y="299" fill="#67e8f9">    learn()</text>
+  </g>
+  <path d="M702 175V303" stroke="#33415d" stroke-width="2" />
+  <g font-family="DejaVu Sans, sans-serif">
+    <circle cx="702" cy="175" r="7" fill="#67e8f9" />
+    <text x="728" y="181" fill="#edf2ff" font-size="20">Explore the idea.</text>
+    <circle cx="702" cy="239" r="7" fill="#a78bfa" />
+    <text x="728" y="245" fill="#edf2ff" font-size="20">Try it in Python.</text>
+    <circle cx="702" cy="303" r="7" fill="#f472b6" />
+    <text x="728" y="309" fill="#edf2ff" font-size="20">Learn. Then go again.</text>
+    <text x="694" y="131" fill="#8fa1bd" font-size="11" letter-spacing="2">THE PROCESS / ON REPEAT</text>
+  </g>
 </svg>
