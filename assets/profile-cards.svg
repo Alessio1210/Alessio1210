@@ -3,52 +3,52 @@
   <desc id="desc">Three cards: building backend and full-stack applications, welcoming questions and contributions, and disliking race conditions.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
-      <stop stop-color="#0b1424" />
-      <stop offset="1" stop-color="#060914" />
+      <stop stop-color="#0A0A0A" />
+      <stop offset="1" stop-color="#120506" />
     </linearGradient>
     <linearGradient id="neon">
-      <stop stop-color="#67e8f9" />
-      <stop offset=".5" stop-color="#a78bfa" />
-      <stop offset="1" stop-color="#f472b6" />
+      <stop stop-color="#E54B55" />
+      <stop offset=".5" stop-color="#A21517" />
+      <stop offset="1" stop-color="#ECBDD8" />
     </linearGradient>
     <radialGradient id="halo">
-      <stop stop-color="#8b5cf6" stop-opacity=".25" />
-      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+      <stop stop-color="#A21517" stop-opacity=".25" />
+      <stop offset="1" stop-color="#A21517" stop-opacity="0" />
     </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".045" />
+      <path d="M32 0H0V32" fill="none" stroke="#F2A0A5" stroke-opacity=".045" />
     </pattern>
   </defs>
   <rect width="1200" height="280" rx="22" fill="url(#bg)" />
   <rect width="1200" height="280" rx="22" fill="url(#grid)" />
-  <rect x="20" y="16" width="372" height="244" rx="16" fill="#10172a" stroke="#28334a" />
-  <path d="M44 17H150" stroke="#67e8f9" stroke-width="2" />
+  <rect x="20" y="16" width="372" height="244" rx="16" fill="#151010" stroke="#452024" />
+  <path d="M44 17H150" stroke="#E54B55" stroke-width="2" />
   <g font-family="DejaVu Sans, sans-serif">
-    <text x="46" y="57" fill="#67e8f9" font-size="11" letter-spacing="2">CURRENT FOCUS</text>
-    <text x="320" y="57" fill="#556581" font-size="12">01</text>
-    <text x="46" y="118" fill="#67e8f9" font-family="monospace" font-size="35">&gt;_</text>
+    <text x="46" y="57" fill="#E54B55" font-size="11" letter-spacing="2">CURRENT FOCUS</text>
+    <text x="320" y="57" fill="#85696B" font-size="12">01</text>
+    <text x="46" y="118" fill="#E54B55" font-family="monospace" font-size="35">&gt;_</text>
     <text x="46" y="164" fill="#edf2ff" font-size="23" font-weight="bold">Backend × Full-Stack</text>
-    <text x="46" y="199" fill="#a7b5cc" font-size="15">Building from APIs</text>
-    <text x="46" y="224" fill="#a7b5cc" font-size="15">to user-facing applications.</text>
+    <text x="46" y="199" fill="#C9B4B4" font-size="15">Building from APIs</text>
+    <text x="46" y="224" fill="#C9B4B4" font-size="15">to user-facing applications.</text>
   </g>
-  <rect x="414" y="16" width="372" height="244" rx="16" fill="#10172a" stroke="#28334a" />
-  <path d="M438 17H544" stroke="#a78bfa" stroke-width="2" />
+  <rect x="414" y="16" width="372" height="244" rx="16" fill="#151010" stroke="#452024" />
+  <path d="M438 17H544" stroke="#A21517" stroke-width="2" />
   <g font-family="DejaVu Sans, sans-serif">
-    <text x="440" y="57" fill="#a78bfa" font-size="11" letter-spacing="2">OPEN INVITATION</text>
-    <text x="714" y="57" fill="#556581" font-size="12">02</text>
-    <text x="440" y="118" fill="#a78bfa" font-family="monospace" font-size="35">{ }</text>
+    <text x="440" y="57" fill="#A21517" font-size="11" letter-spacing="2">OPEN INVITATION</text>
+    <text x="714" y="57" fill="#85696B" font-size="12">02</text>
+    <text x="440" y="118" fill="#A21517" font-family="monospace" font-size="35">{ }</text>
     <text x="440" y="164" fill="#edf2ff" font-size="23" font-weight="bold">Build together</text>
-    <text x="440" y="199" fill="#a7b5cc" font-size="15">Questions welcome.</text>
-    <text x="440" y="224" fill="#a7b5cc" font-size="15">Contributions welcome, too.</text>
+    <text x="440" y="199" fill="#C9B4B4" font-size="15">Questions welcome.</text>
+    <text x="440" y="224" fill="#C9B4B4" font-size="15">Contributions welcome, too.</text>
   </g>
-  <rect x="808" y="16" width="372" height="244" rx="16" fill="#10172a" stroke="#28334a" />
-  <path d="M832 17H938" stroke="#f472b6" stroke-width="2" />
+  <rect x="808" y="16" width="372" height="244" rx="16" fill="#151010" stroke="#452024" />
+  <path d="M832 17H938" stroke="#ECBDD8" stroke-width="2" />
   <g font-family="DejaVu Sans, sans-serif">
-    <text x="834" y="57" fill="#f472b6" font-size="11" letter-spacing="2">PERSONAL PATCH</text>
-    <text x="1108" y="57" fill="#556581" font-size="12">03</text>
-    <text x="834" y="118" fill="#f472b6" font-family="monospace" font-size="35">//</text>
+    <text x="834" y="57" fill="#ECBDD8" font-size="11" letter-spacing="2">PERSONAL PATCH</text>
+    <text x="1108" y="57" fill="#85696B" font-size="12">03</text>
+    <text x="834" y="118" fill="#ECBDD8" font-family="monospace" font-size="35">//</text>
     <text x="834" y="164" fill="#edf2ff" font-size="23" font-weight="bold">No race conditions</text>
-    <text x="834" y="199" fill="#a7b5cc" font-size="15">One thing I definitely</text>
-    <text x="834" y="224" fill="#a7b5cc" font-size="15">do not want to collect.</text>
+    <text x="834" y="199" fill="#C9B4B4" font-size="15">One thing I definitely</text>
+    <text x="834" y="224" fill="#C9B4B4" font-size="15">do not want to collect.</text>
   </g>
 </svg>
