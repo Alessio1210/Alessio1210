@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer**. I build across the stack, from backend services 
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,js,java,bash,html,pytorch,tensorflow,fastapi,react,nodejs,postgres,mysql,sqlite,supabase,gcp,azure,docker,kubernetes,githubactions,cloudflare,git,github,gitlab,vscode,postman,figma,notion&amp;perline=10&amp;theme=dark" alt="Python, C++, Rust, TypeScript, JavaScript, Java, Bash, HTML, PyTorch, TensorFlow, FastAPI, React, Node.js, PostgreSQL, MySQL, SQLite, Supabase, Google Cloud, Azure, Docker, Kubernetes, GitHub Actions, Cloudflare, Git, GitHub, GitLab, VS Code, Postman, Figma, Notion" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,js,java,bash,html,pytorch,tensorflow,fastapi,react,nodejs,postgres,mysql,sqlite,supabase,gcp,azure,docker,kubernetes,githubactions,cloudflare,git,github,gitlab,neovim,postman,figma,notion&amp;perline=10&amp;theme=dark" alt="Python, C++, Rust, TypeScript, JavaScript, Java, Bash, HTML, PyTorch, TensorFlow, FastAPI, React, Node.js, PostgreSQL, MySQL, SQLite, Supabase, Google Cloud, Azure, Docker, Kubernetes, GitHub Actions, Cloudflare, Git, GitHub, GitLab, Neovim, Postman, Figma, Notion" />
 </p>
 
 <p align="center"><sub>Always building and learning.</sub></p>
